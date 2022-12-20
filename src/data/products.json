@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Zapatillas",
+    "description": "Zapatillas Adidas Running negras",
+    "price": 35000,
+    "thumbnails": [
+      "img",
+      "img"
+    ],
+    "code": 9,
+    "status": true,
+    "category": 1
+  },
+  {
+    "id": 2,
+    "title": "Bolso",
+    "description": "Bolso de entrenamiento Adidas",
+    "price": 15000,
+    "thumbnails": [
+      "img",
+      "img"
+    ],
+    "code": 3,
+    "status": true,
+    "category": "indumentaria",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "title": "Pelota",
+    "description": "Pelota Adidas mundial Qatar",
+    "price": "13000",
+    "thumbnails": [],
+    "code": "128",
+    "status": true,
+    "category": "deportes",
+    "stock": "30"
+  },
+  {
+    "id": 4,
+    "title": "Short",
+    "description": "Short adidas negro para running",
+    "price": "12000",
+    "thumbnails": [],
+    "code": "1346",
+    "status": true,
+    "category": "indumentaria",
+    "stock": "10"
+  }
+]
